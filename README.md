@@ -1,0 +1,2 @@
+# sist
+sistema experto-esquizofrenia
